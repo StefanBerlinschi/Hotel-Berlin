@@ -40,11 +40,10 @@
         <li>Un utilizator își poate crea un cont prin email, cont în care are opțiunea de a introduce date personale
             pentru a face mai rapidă crearea unei rezervări.
         </li>
-        <li>Utilizatorii sunt de 2 tipuri: clienți (au dreptul de a face rezervări sau a le anula, precum și dreptul de a scrie recenzii),
+        <li>Utilizatorii sunt de 3 tipuri: clienți (au dreptul de a face rezervări sau a le anula, precum și dreptul de a scrie recenzii),
             angajați (au dreptul de a actualiza pagini cu date despre hotel, cum ar fi paginile cu poze ale facilităților hotelului, dar și 
-            de a crea rezervări, în cazul în care acestea au fost făcute de către client prin alt intermediu decât site-ul acesta).
-        </li>
-        <li>Pe langă utilizatori mai sunt și administratorii (au toate drepturile de mai sus, plus acces la datele utilizatorilor cu excepția parolelor).
+            de a crea rezervări, în cazul în care acestea au fost făcute de către client prin alt intermediu decât site-ul acesta),
+            și administratorii (au toate drepturile de mai sus, plus acces la datele utilizatorilor cu excepția parolelor).
         </li>
         <li>Baza de date a aplicației stochează informații despre facilitățile fizice ale hotelului precum și rezervările făcute, putând astfel
             să ofere date despre disponibilitatea unui anumit hotel pentru un anume interval de timp.
